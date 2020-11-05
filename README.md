@@ -24,7 +24,7 @@ from just looking at their profile
 
 `$ pkg install -y git`
 
-`$ git clone https://github.com/Sundaram070813/Instagram_info_collector-final.git && cd osi.ig`
+`$ git clone https://github.com/Sundaram070813/Instagram_info_collector-final.git && cd Instagram_info_collector-final
 
 `$ python3 -m pip install requirements.txt`
 
