@@ -1,18 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg" width="300" height="120">
-</p>
-<p align="center">
-</p>
-<p align="center"><img src="https://img.shields.io/badge/Version-2.0-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/th3unkn0n/osi.ig/stargazers">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/osi.ig?style=social">
-  </a>
-</p>
-<p align="center">
+
   Open Source Information Instagram
 </p>
 
